@@ -2,7 +2,6 @@ import React from 'react';
 import { Grid, Cell } from 'react-mdl';
 import ProfileImage from '../Assets/Images/profileImage.webp';
 
-let date1 = 'new Date("21/08/2021")'
 class About extends React.PureComponent {
    
     state = {
