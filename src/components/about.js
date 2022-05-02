@@ -71,7 +71,7 @@ class About extends React.PureComponent {
                                             I believe that the best way to learn something is by sharing what you learned, so, with my friends I have ignited a developer club in my college to make a local programming community and to help each other by sharing knowledge. We have 150+ members currently enrolled in from different branches who are full of enthusiasm and always ready to take challenges.
                                           </p>
                                         <p className='about-me'>
-                                            I like making new connections and learning new things by sharing knowledge.
+                                            I like making new connections and your are beautiful learning new things by sharing knowledge.
                                          </p>
                                         <p className='about-me'>
                                             Thank you for your time for going through my website.
