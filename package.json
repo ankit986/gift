@@ -1,8 +1,8 @@
 {
-  "name": "portfolio",
+  "name": "gift",
   "version": "0.2.0",
   "private": true,
-  "homepage": "https://ankit986.github.io/ayushi/",
+  "homepage": "https://ankit986.github.io/gift/",
   "dependencies": {
     "aos": "^2.3.4",
     "npm-react": "^1.0.0",
@@ -46,9 +46,9 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ankit986/portfolio.git"
+    "url": "git+https://github.com/ankit986/gift.git"
   },
   "bugs": {
-    "url": "https://github.com/ankit986/portfolio/issues"
+    "url": "https://github.com/ankit986/gift/issues"
   }
 }
