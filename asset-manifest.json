@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/ayushi/static/css/main.37a0195c.chunk.css",
+    "main.js": "/ayushi/static/js/main.f7f0c182.chunk.js",
+    "main.js.map": "/ayushi/static/js/main.f7f0c182.chunk.js.map",
+    "runtime-main.js": "/ayushi/static/js/runtime-main.8c79a706.js",
+    "runtime-main.js.map": "/ayushi/static/js/runtime-main.8c79a706.js.map",
+    "static/css/2.764e46c2.chunk.css": "/ayushi/static/css/2.764e46c2.chunk.css",
+    "static/js/2.f80ed04b.chunk.js": "/ayushi/static/js/2.f80ed04b.chunk.js",
+    "static/js/2.f80ed04b.chunk.js.map": "/ayushi/static/js/2.f80ed04b.chunk.js.map",
+    "index.html": "/ayushi/index.html",
+    "precache-manifest.7256d344ba3d2e91ef6f3fcc8f4df295.js": "/ayushi/precache-manifest.7256d344ba3d2e91ef6f3fcc8f4df295.js",
+    "service-worker.js": "/ayushi/service-worker.js",
+    "static/css/2.764e46c2.chunk.css.map": "/ayushi/static/css/2.764e46c2.chunk.css.map",
+    "static/css/main.37a0195c.chunk.css.map": "/ayushi/static/css/main.37a0195c.chunk.css.map",
+    "static/media/AnkitBansal_CV.pdf": "/ayushi/static/media/AnkitBansal_CV.de661886.pdf",
+    "static/media/caring.jpeg": "/ayushi/static/media/caring.d10778e8.jpeg",
+    "static/media/cute.jpeg": "/ayushi/static/media/cute.e239d984.jpeg",
+    "static/media/dreamer.jpeg": "/ayushi/static/media/dreamer.e0c026f8.jpeg",
+    "static/media/App.css": "/ayushi/static/media/hbdd12.6f74c43c.png",
+    "static/media/lame.jpeg": "/ayushi/static/media/lame.b8e4eb54.jpeg",
+    "static/media/ojos.jpeg": "/ayushi/static/media/ojos.54bcc375.jpeg",
+    "static/media/posessive.jpeg": "/ayushi/static/media/posessive.79654152.jpeg",
+    "static/media/pretty.jpeg": "/ayushi/static/media/pretty.633b8927.jpeg",
+    "static/media/profileImage.webp": "/ayushi/static/media/profileImage.90c16ae0.webp",
+    "static/media/supportive.jpeg": "/ayushi/static/media/supportive.e8343615.jpeg",
+    "static/media/unpredictable.jpeg": "/ayushi/static/media/unpredictable.dc7e97f6.jpeg",
+    "static/media/writter.jpeg": "/ayushi/static/media/writter.10afc754.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c79a706.js",
+    "static/css/2.764e46c2.chunk.css",
+    "static/js/2.f80ed04b.chunk.js",
+    "static/css/main.37a0195c.chunk.css",
+    "static/js/main.f7f0c182.chunk.js"
+  ]
+}
